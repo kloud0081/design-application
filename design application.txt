@@ -1,0 +1,32 @@
+TITLE: CHAT 
+
+
+As a Admin
+allow lock member  only when nomber signalisation is more 30  only when is logged admin
+allow unlock member  only when is logged admin
+
+
+
+As a USER
+  see a list of members  on site without signup
+
+allow/disallow upload profile picture when is signedup 
+
+allow send msg to any members  only when is logged and not blocked acount
+
+allow like profile picture only when is logged and not blocked acount
+
+allow signal any members  only when  is logged and not blocked acount
+
+allow see profile member only when is logged and not blocked acount
+
+allow see a notification when there like her profile picture when is logged and not blocked acount
+ 
+allow update his information when is logged and not blocked acount
+allow see a list of all  conversation only when is logged and not blocked acount
+
+
+
+
+
+
